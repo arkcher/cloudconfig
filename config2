@@ -1,0 +1,2 @@
+config:
+  info: "this is branch branch, spring-cloud-config/config-dev.yml, version = 1.0"
